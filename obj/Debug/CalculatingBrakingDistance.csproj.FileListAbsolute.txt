@@ -1,0 +1,6 @@
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\bin\Debug\CalculatingBrakingDistance.exe.config
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\bin\Debug\CalculatingBrakingDistance.exe
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\bin\Debug\CalculatingBrakingDistance.pdb
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\obj\Debug\CalculatingBrakingDistance.csprojResolveAssemblyReference.cache
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\obj\Debug\CalculatingBrakingDistance.exe
+D:\Nauka\OTHER\CalculatingBrakingDistance\CalculatingBrakingDistance\obj\Debug\CalculatingBrakingDistance.pdb
